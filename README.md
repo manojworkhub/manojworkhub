@@ -1,12 +1,11 @@
+<img align="right" height="200" src="https://i.ibb.co/HYwmZkm/profile-TR.png"  />
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
 <h4 align="left">My name is manoj and I'm afrontend developer</h4>
 ###
-<img align="right" height="200" src="https://i.ibb.co/HYwmZkm/profile-TR.png"  />
-
-
 
 ###
 
