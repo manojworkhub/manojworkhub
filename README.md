@@ -1,67 +1,109 @@
-<img align="right" height="200" src="https://i.ibb.co/HYwmZkm/profile-TR.png"  />
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-</div>
-
-###
+### <div align="center">Full-Stack Development | Frontend development Enthusiast</div>  
+  
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=manojworkhub.manojworkhub&left_color=coral"  />
+<img src="https://i.ibb.co/HYwmZkm/profile-TR.png" align="center" style="width: 100%" />
+</div>  
+  
+
+## **About me 😎**  
+  
+
+
+
+### 👋 Hello, I'm Mano!  
+
+
+
+🎓 Electrical and Electronic Engineering Graduate from Muthayammal Engineering College.
+
+🔧 After gaining practical experience through an industrial training course, I contributed for 2 years as a Trainee Engineer at SAIL.
+
+💡 While I initially ventured into the electrical field, my true passion has always been computer programming.
+
+🤝 I'm excited to bring my unique background and evolving expertise to the right opportunity! Let's connect and discuss how I can contribute to your team.  
+  
+
+<br/>  
+
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="25" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>
 
-###
+</td><td valign="top" width="33%">
 
-<h1 align="center">hey there 👋</h1>
 
-###
 
-<h3 align="left">👩‍💻  About Me</h3>
+### Backend  
+<div align="center">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
+</div>
 
-###
+</td><td valign="top" width="33%">
 
-<p align="left">👋 Hello, I'm Mano!<br>🎓 Electrical and Electronic Engineering Graduate from Muthayammal Engineering College.<br>🔧 After gaining practical experience through an industrial training course, I contributed for 2 years as a Trainee Engineer at SAIL.<br>💡 While I initially ventured into the electrical field, my true passion has always been computer programming.<br><br>💻 Now, I've pivoted towards full-stack development with a focus on mastering:<br><br>HTML5, CSS3, JavaScript<br>jQuery, Bootstrap, Tailwind CSS<br>Node.js, Express, MongoDB<br>🚀 I'm dedicated to continuous learning and staying up-to-date with the latest technologies.<br>🌱 Currently, I'm sharpening my skills in React and exploring the world of Material-UI and React Native.<br><br>🤝 I'm excited to bring my unique background and evolving expertise to the right opportunity! Let's connect and discuss how I can contribute to your team.</p>
 
-###
 
-<h3 align="left">🛠 Language and tools</h3>
+### DevOps  
+<div align="center">  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+</div>
 
-###
+</td></tr></table>  
+
+<br/>  
+
+<details><summary> Connect with me </summary><div align="center">
+<a href="https://linkedin.com/in/www.linkedin.com/in/mano-r9" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+</details>  
+
+<br/>  
+
+
+## Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojworkhub&hide_border=true&layout=compact" align="center" /></div>  
+
+<br/>  
+
+
+## Recent Blog Posts  
+<!-- BLOG-POST-LIST:START -->  
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:END -->  
+
+<br/>  
+
+  
+
+<br/>  
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-</div>
+<img src="https://komarev.com/ghpvc/?username=manojworkhub&&style=flat-square" align="center" />
+</div>  
+  
 
-###
+<br/>  
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
+<br />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=manojworkhub&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
